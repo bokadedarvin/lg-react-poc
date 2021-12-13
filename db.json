@@ -1,5 +1,5 @@
 {
-    "parent-category": [
+    "parent-categorys": [
         {
             "id":1,
             "parentCategoryName":"TV/Video",
@@ -21,7 +21,7 @@
             "parentCategoryDescription":"All the Laundry will be under this section"
         }
     ],
-    "category": [
+    "categorys": [
         {
             "id":1,
             "categoryName":"TV/Video",
